@@ -383,7 +383,6 @@ can contain:
 ---
 
 In this project, all resources were intentionally separated into different files for:
-- Better learning
 - Easier understanding
 - Clear separation of Kubernetes components
 - Beginner-friendly structure
