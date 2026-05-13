@@ -704,7 +704,3 @@ kubectl port-forward svc/db 5432:5432 &
 | `--force --grace-period=0` | Force delete immediately |
 | `--all-namespaces` | Same as `-A` |
 | `--show-labels` | Display labels in output |
-
----
-
-*Generated for personal reference. Always verify commands against your cluster version with `kubectl version --short`.*
